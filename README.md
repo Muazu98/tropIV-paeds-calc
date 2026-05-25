@@ -6,11 +6,12 @@ A clinical utility app for bedside use in Tropical Paediatrics, built for medica
 
 ## Project Overview
 
+
 **Target users:** Medical students, house officers, paediatricians — especially in tropical/low-resource settings.
 
-**Platform:** React Native (Expo) — cross-platform Android & iOS
+**Platform:** Progressive Web App (React + Vite + Tailwind CSS) — cross-platform Android, iOS, & Desktop
 
-**Current prototype:** Single-file HTML (TropPaeds_Calculator.html)
+**Current Version:** v1.0 (Live Production Build)
 
 ---
 
